@@ -1,0 +1,24 @@
+{
+  "cards":[{
+    "img":"images/mate40.jpg", 
+    "name":"Huawei Mate40",
+    "rate":"52000",
+    "offer":"25000",
+    "button":"view"
+  },{
+    "img":"images/p50.jpg", 
+    "name":"Huawei P50",
+    "rate":"62000",
+    "offer":"35000",
+    "button":"view"
+  },{
+    "img":"images/mate pad.jpg", 
+    "name":"Huawei Matepad",
+    "rate":"32000",
+    "offer":"24000",
+    "button":"view"
+
+    
+  }
+ ]
+}
